@@ -34,6 +34,17 @@
 
 ---
 
+### 🍛 Telangana Ruchulu — Restaurant Website
+
+* 🌐 Modern, conversion-focused restaurant website
+* ⚡ Built with React, Vite, Tailwind CSS & Framer Motion
+* 🤖 AI-assisted development using Lovable
+* 📱 Fully responsive with smooth animations
+* 🎯 Designed to drive real-world user actions (calls, directions, engagement)
+* 🌐 Live Demo: https://your-render-link.onrender.com
+
+---
+
 ### 🔹 Workplace Accident Prediction (ML)
 
 * 🤖 Predicts workplace risks using Machine Learning
