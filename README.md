@@ -67,7 +67,7 @@
 
 * 🌐 Personal portfolio using HTML, CSS & Javascript
 * 🎨 Responsive design
-* 🔗 https://myportfolilo-ebaysxdye-saichaithanyakummaris-projects.vercel.app/
+* 🔗 https://myportfolilo-six.vercel.app/
 
 ---
 
