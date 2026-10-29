@@ -50,7 +50,7 @@
 * 🤖 Predicts workplace risks using Machine Learning
 * 📊 Uses data analysis and ML models
 * 🛠 Built with Python & Scikit-learn
-* 🔗 https://github.com/SaiChaithanyaKummari/workplace_accident_prediction_using_ML
+* 🔗 https://workplace-accident-prediction-using-ml-1.onrender.com/
 
 ---
 
@@ -59,7 +59,7 @@
 * 🏥 Health-related prediction system
 * 📁 Includes dataset processing and ML model
 * 🛠 Built with Python
-* 🔗 https://github.com/SaiChaithanyaKummari/Healthmate
+* 🔗 https://healthmate-kqed.onrender.com/
 
 ---
 
